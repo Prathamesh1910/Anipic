@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Anipic</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string-array name="Genre">
+        <item>Comedy</item>
+        <item>Adventure</item>
+        <item>Romance</item>
+        <item>Hentai</item>
+        <item>Travel</item>
+        <item>Sport</item>
+    </string-array>
+</resources>
